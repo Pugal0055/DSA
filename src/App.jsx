@@ -24,12 +24,13 @@ const App = () => {
       {/* <Issue05 /> */}
       {/* <Issue06 /> */}
       {/* <Issue07 /> */}
+      <Issue08 />
       {/* <Issue09 /> */}
       {/* <Issue10 /> */}
       {/* <Issue11 /> */}
       {/* <Issue12 />
       <Issue13 /> */}
-      <Issue14 />
+      {/* <Issue14 /> */}
     </div>
   );
 };
